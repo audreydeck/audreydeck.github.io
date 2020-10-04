@@ -1,4 +1,4 @@
-## La bretagne et ses secrets
+## La Bretagne et ses secrets
 
 **Description du projet :**
 <br>
