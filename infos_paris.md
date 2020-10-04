@@ -26,7 +26,7 @@ Chaque endroit est représenté par une image et un texte explicatif. Ayant diff
 ### 2. L'activité
 
 Les activités autour de Paris furent construite comme une visite guidée. A vous de (re)découvrire la capitale !
-<br>
+<br><br>
 Chaque élève a eu un exemplier à remplir au fur et à mesure. L'activité commence par quelques question sur Paris : qui a déjà visité la ville, quels endroit aimeraient-ils ou ont-ils visités ? Le premier exercice leur demande de répondre à des questions, les informations se trouvant sur la carte. Le deuxième exercice est une activité de groupe : chaque groupe reçoit une feuille illustrant les différents lieux visités, à eu de retrouver leurs noms ! Et pour finir, un mots mélés qui repprant le vocabulaire fraîchement appris.
 <br>
 -> [Exemplier](/pdf/handout_paris.pdf)
