@@ -9,14 +9,10 @@ de manière simple et ludique !
 ### 1. Le visuel
 #### 1.1. La page d'accueil
 
-Les élèves avaient une fiche de travail à remplir au fur et à mesure, ainsi
-qu'une pe􀀠te liste de vocabulaire avec la défini􀀠on des mots en gras qui
-apparaissaient dans les descrip􀀠ons.
-
 Elle consiste en une carte de Paris avec les monuments les plus emblématiques de la capitale. Ainsi les élèves ont pu avoir un apperçu de la ville comme s'ils y étaient ! En 
 cliquant sur les différents lieux, une nouvelle page s'ouvre sur image ainsi qu'un texte explicatif.
 <br><br>
-Les images utilisé sont libre de droit.
+Les images utilisées sont libre de droit.
 <br>
 
 <img src="images/paris/accueil_paris.png"/>
@@ -35,8 +31,10 @@ le monde à compris.
 
 Les activités autour de Paris furent construite comme une visite guidée.
 <br>
-Chaque élève a eu un exemplier détaillant l'activité.
-[Exemplier](/pdf/handout_paris.pdf)
+Chaque élève a eu un exemplier détaillant l'activité. Ils devaient la remplir au fur et à mesure.
+<br>
+-> [Exemplier](/pdf/handout_paris.pdf)
 <br><br>
 Pour approfondir le cours, mise en place de station avec des activités
-[Visite guidée](/pdf/station_paris.pdf)
+<br>
+->[Visite guidée](/pdf/station_paris.pdf)
