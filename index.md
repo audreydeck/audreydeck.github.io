@@ -4,15 +4,15 @@
 
 ### Projet web
 
-#### [Carte interactive de Paris](/infos_saisons.md)
+#### [Les saisons](/infos_saisons.md)
 <img src="images/saisons/ete.png"/>
 <img src="images/saisons/hiver.png"/>
 
 #### [Carte interactive de Paris](/infos_paris.md)
-<img src="images/paris/acceuil_paris.png"/>
+<img src="images/paris/accueil_paris.png"/>
 
 #### [A la décoverte de la Bretagne](/infos_bretagne.md)
-<img src="images/bretagne/acceuil_bretagne.png"/>
+<img src="images/bretagne/accueil_bretagne.png"/>
 
 ---
 
