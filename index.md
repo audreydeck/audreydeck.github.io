@@ -6,7 +6,7 @@
 
 ---
 
-### Projet web
+### Projets web
 
 #### [Au fil des saisons](/infos_saisons.md)
 <img src="images/saisons/presentation_saisons.png"/>
@@ -19,7 +19,7 @@
 
 ---
 
-### Projet tablette graphique Wacom Intuos
+### Projets tablette graphique Wacom Intuos
 
 - [Portrait](http://example.com/)
 - [Scène](http://example.com/)
