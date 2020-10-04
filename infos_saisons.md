@@ -8,9 +8,10 @@ HTML et CSS ont été les premiers langages de programmation avec lesquels j'ai 
 ### 1. Le visuel
 
 Nous avons 4 pages web, une pour chaque saison de l'année. Chaque page est composée d'une image et d'un poème sur un fond dégradé en lien avec la saison. En bas de la page, se situe deux liens pour aller soit à la saison précédente, soit à la saison suivante.
-<br>
+<br><br>
 L'image utilisé pour le fond est libre de droit.
-Les images utilisés pour chaque saisons ainsi que les poèmes sont de moi.
+<br>
+J'ai founit les images utilisés pour chaque saisons ainsi que les poèmes.
 <br>
 
 <img src="images/saisons/printemps.png"/>
