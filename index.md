@@ -5,8 +5,7 @@
 ### Projet web
 
 #### [Au fil des saisons](/infos_saisons.md)
-<img src="images/saisons/ete.png"/>
-<img src="images/saisons/hiver.png"/>
+<img src="images/saisons/presentation_saisons.png"/>
 
 #### [A la découverte de Paris](/infos_paris.md)
 <img src="images/paris/accueil_paris.png"/>
