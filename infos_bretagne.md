@@ -14,15 +14,15 @@ un lieu et répondre au question !
 Les images utilisées sont libre de droit.
 <br>
 
-<img src="images/paris/accueil_bretagne.png"/>
+<img src="images/bretagne/accueil_bretagne.png"/>
 
 #### 1.2. Les lieux
 
 Chaque endroit est représenté par une image et par un texte explicatif. Le defi a été le même que pour la carte interactive de Paris : créer une activité ludique et éducative 
 accessible à tous les élèves. 
 
-<img src="images/paris/page_une_bretagne.png"/>
-<img src="images/paris/page_deux_bretagne.png"/>
+<img src="images/bretagne/page_une_bretagne.png"/>
+<img src="images/bretagne/page_deux_bretagne.png"/>
 
 ### 2. L'activité
 
