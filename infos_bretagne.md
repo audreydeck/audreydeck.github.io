@@ -26,8 +26,7 @@ accessible à tous les élèves.
 
 ### 2. L'activité
 
-Chaque élève a eu un exemplier détaillant l'activité qu'ils devaientremplir au fur et à mesure. Le premier exercice leur demande de répondre à des questions, les informations se 
-trouvant dans le jeu. Le deuxième, pour celles et ceux ayant fini plus tôt, est un mots mélés reprenant le vocabulaire fraîchement appris !
+Chaque élève a eu un exemplier détaillant l'activité qu'ils devaient remplir au fur et à mesure. Le premier exercice leur demande de répondre à des questions, les informations se trouvant dans le jeu. Le deuxième, pour celles et ceux ayant fini plus tôt, est un mots mélés reprenant le vocabulaire fraîchement appris !
 <br>
 -> [Exemplier](/pdf/handout_bretagne.pdf)
 
