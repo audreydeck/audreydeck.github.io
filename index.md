@@ -1,32 +1,32 @@
-<h2><font color="#6a2c70"> Portfolio <font><h2>
+## Portfolio
 
 ---
 ---
 
-<h3><font color=#b83b5e> Projets web </font><h3>
+### Projets web
 
 ---
 
-<h4><a href="/infos_saisons.md"><font color="#f08a5d"> Au fil des saisons </font></a></h4>
+#### [Au fil des saisons](/infos_saisons.md)
 <img src="images/saisons/presentation_saisons.png"/>
 
-<h4><a href="/infos_paris.md"><font color="#f08a5d"> A la découverte de Paris </font></a></h4>
+#### [A la découverte de Paris](/infos_paris.md)
 <img src="images/paris/accueil_paris.png"/>
 
-<h4><a href="/infos_bretagne.md"><font color="#f08a5d"> La Bretagne et ses secrets </font></a></h4>
+#### [La Bretagne et ses secrets](/infos_bretagne.md)
 <img src="images/bretagne/accueil_bretagne.png"/>
 
 ---
 ---
 
-<h3><font color="#b83b5e"> Projets tablette graphique Wacom Intuos </font><h3>
+### Projets tablette graphique Wacom Intuos
 
 ---
 
-<h4><a href="/premiers_pas.md"><font color="#f08a5d"> Premiers pas </font></a></h4>
+#### [Premiers pas](/premiers_pas.md)
 <img src="images/graphique/past_and_future_v1.png"/>
 
-<h4><a href="/fonddecran.md"><font color="#f08a5d"> Fonds d'écran </font></a></h4>
+#### [Fonds d'écran](/fonddecran.md)
 <img src="images/graphique/chamber.png"/>
 
 ---
