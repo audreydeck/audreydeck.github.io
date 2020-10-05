@@ -9,8 +9,10 @@ une tablette graphique.
 
 <img src="images/graphique/past_v1.png"/>
 <img src="images/graphique/future_v1.png"/>
-<p style="font-size:13px">Vous pouvez voir les images en grand format en cliquant sur les liens juste en dessous</p>
+<p style="font-size:10px">Vous pouvez voir les images en grand format en cliquant sur les liens juste en dessous</p>
+<div align="center">
 [Passé](/images/graphique/past_v1.png) et [Futur](/images/graphique/future_v1.png)
+</div>
 
 ### 2. Evolution
 
@@ -19,7 +21,7 @@ Avant d'avoir pu m'acheter une tablette graphique, j'ai scanné mes dessins puis
 <img src="images/graphique/portrait2017.png"/>
 <br>
 [Portrait 1](/images/graphique/sirène_bleu.png) - [Portrait 2](/images/graphique/enora.png) - [Portrait 3](/images/graphique/personnage.png)
-<br><br>
+<br>
 _Dessins réalisés en 2017_
 <br><br>
 ... puis, lorsque l'occasion s'est présentée, je me suis achetée une tablette graphique Wacom Intuos et depuis j'utilise le logiciel Clip Studio Paint pour mettre en couleur 
@@ -38,7 +40,7 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
 [Voyante](/images/graphique/loug_garou/voyante.png) - [Sorcière](/images/graphique/loug_garou/sorciere.png) - [Petite Fille](/images/graphique/loug_garou/petite_fille.png)
 <br>
 [Chasseur](/images/graphique/loug_garou/chasseur.png) - [Voleur](/images/graphique/loug_garou/voleur.png) - [Cupidon](/images/graphique/loug_garou/cupidon.png)
-<br><br>
+<br>
 _Projet réalisé en 2019_
 
 ### 3. Progression
@@ -50,7 +52,7 @@ Durant le confinement, j'ai eu l'occasion de pouvoir m'exercer plus souvent sur 
 <img src="images/graphique/portrait2020.png"/>
 <br>
 [Portrait 1](/images/graphique/portrait_1.png) - [Portrait 2](/images/graphique/portrait_3_v2.png) - [Portrait 3](/images/graphique/portrait_4.png)
-<br><br>
+<br>
 _Dessins réalisés en 2020_
 
 #### 3.2. Personnages entiers et scènes
@@ -59,5 +61,5 @@ _Dessins réalisés en 2020_
 <img src="images/graphique/scene_v4_bg_nature.png"/>
 <br>
 [Image 1](/images/graphique/personnage_1_bg_v3.png) - [Image 2](/images/graphique/wynn_et_eireen.png) - [Image 3](/images/graphique/scene_v4_bg_nature.png)
-<br><br>
+<br>
 _Dessins réalisés en 2020_
