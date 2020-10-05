@@ -2,7 +2,7 @@
 
 **Description du projet :**
 <br>
-HTML et CSS ont été les premiers langages de programmation avec lesquels j'ai travaillé. Ci-dessous, les premières pages web que j'ai eu l'occasion de coder.
+HTML et CSS ont été les premiers langages informatiques avec lesquels j'ai travaillé. Ci-dessous, les premières pages web que j'ai eu l'occasion de coder.
 <br>
 
 ### 1. Le visuel
