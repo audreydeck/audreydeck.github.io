@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header align="right">
-        <h1><a href="{{ "/" | absolute_url }}"><font color="#6a2c70">{{ site.title | default: site.github.repository_name }}/font></a><</h1>
+        <h1><a href="{{ "/" | absolute_url }}"><font color="#6a2c70">{{ site.title | default: site.github.repository_name }}</font></a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -44,11 +44,11 @@
       {{ content }}
 
       </section>
-      <footer>
+      <footer align="right">
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <br>
+        <br><br>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
