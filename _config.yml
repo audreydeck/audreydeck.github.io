@@ -1,8 +1,5 @@
-<p text-align="right">
 title: Audrey DECK # your name (or website title) here
-</p>
 logo: "/images/photo_de_profil.png" # your photo (or logo) here
-<p text-align="right">
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Etudiante en M2 Technologie des Langues à l'Université de Strasbourg, je suis passionnée des nouvelles technologies et plus particulièrement par le domaine de la programmation.
@@ -14,4 +11,3 @@ description: > # your text below (remove <br> elements if you don't need line br
 <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-179504831-1 # your Google Analytics tracking ID here
-</p>
