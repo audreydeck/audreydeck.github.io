@@ -1,12 +1,11 @@
 ## Portfolio
 
 ---
-
-**EN COURS DE CONSTRUCTION**
-
 ---
 
 ### Projets web
+
+---
 
 #### [Au fil des saisons](/infos_saisons.md)
 <img src="images/saisons/presentation_saisons.png"/>
@@ -21,6 +20,8 @@
 ---
 
 ### Projets tablette graphique Wacom Intuos
+
+---
 
 #### [Portrait](/portrait.md)
 <img src="images/graphique/scene_v4_bg_nature.png"/>
