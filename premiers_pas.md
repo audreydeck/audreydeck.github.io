@@ -1,6 +1,6 @@
 ## A vos crayons !
 
-version 2
+version 3
 
 ### 1. Où tout a commencé...
 
@@ -12,7 +12,13 @@ une tablette graphique.
 <img src="images/graphique/past_v1.png"/>
 <img src="images/graphique/future_v1.png"/>
 <p style="font-size:10px">Vous pouvez voir les images en grand format en cliquant sur les liens juste en dessous</p>
--> [Passé](/images/graphique/past_v1.png) et [Futur](/images/graphique/future_v1.png) <-
+![Passé](/images/graphique/past_v1.png) et [Futur](/images/graphique/future_v1.png)
+
+$$\text{[Passé](/images/graphique/past_v1.png) et [Futur](/images/graphique/future_v1.png)$$
+
+<p align="center">
+<a href="/images/graphique/past_v1.png">2017</a> et <a href="/images/graphique/future_v1.png">2020</a>
+</p>
 
 ### 2. Evolution
 
