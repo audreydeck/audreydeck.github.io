@@ -6,9 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Vous pouvez découvrir mes différents projets artistiques dans ce portfolio !
   <br><br>
-  <p>
-  <a href="https://www.linkedin.com/in/audrey-deck-a12141199/"><font color="#6a2c70>Mon profil LinkedIn</font></a>
-  </p>
+#  <a href="https://www.linkedin.com/in/audrey-deck-a12141199/"><font color="#6a2c70>Mon profil LinkedIn</font></a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-179504831-1 # your Google Analytics tracking ID here
