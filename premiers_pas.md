@@ -9,7 +9,7 @@ une tablette graphique.
 
 <img src="images/graphique/past_v1.png"/>
 <img src="images/graphique/future_v1.png"/>
-[Passé](images/graphique/past_v1.png) et [Futur](images/graphique/future_v1.png)
+[Passé](/images/graphique/past_v1.png) et [Futur](/images/graphique/future_v1.png)
 
 ### 2. Evolution
 
