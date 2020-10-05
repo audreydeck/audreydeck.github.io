@@ -2,7 +2,7 @@
 
 **Description du projet :**
 <br>
-Série de portraits créés avec un logiciel de dessin.
+Bla bla bla
 <br>
 
 ### 1. Où tout a commencé...
