@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header align="right">
-        <h1><a href="{{ "/" | absolute_url }}"><font color="#6a2c70">{{ site.title | default: site.github.repository_name }}</font></a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -26,10 +26,8 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
         
-        <p><a href="https://www.linkedin.com/in/audrey-deck-a12141199/"><font color="#6a2c70>Mon profil LinkedIn</font></a></p>
-
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}"><font color="#6a2c70">Mon profil GitHub</font></a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}">Mon profil GitHub</a></p>
         <br>
         {% endif %}
 
