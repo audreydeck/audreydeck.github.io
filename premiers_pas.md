@@ -1,5 +1,7 @@
 ## A vos crayons !
 
+version 1
+
 ### 1. Où tout a commencé...
 
 Je dessine depuis que j'ai appris à tenir un crayon ce qui remonte à une bonne vingtaine d'année. Même si mes créations n'étaient pas du niveau des plus grands artistes, j'ai 
@@ -10,9 +12,7 @@ une tablette graphique.
 <img src="images/graphique/past_v1.png"/>
 <img src="images/graphique/future_v1.png"/>
 <p style="font-size:10px">Vous pouvez voir les images en grand format en cliquant sur les liens juste en dessous</p>
-<div align="center">
-[Passé](/images/graphique/past_v1.png) et [Futur](/images/graphique/future_v1.png)
-</div>
+| [Passé](/images/graphique/past_v1.png) et [Futur](/images/graphique/future_v1.png) |
 
 ### 2. Evolution
 
