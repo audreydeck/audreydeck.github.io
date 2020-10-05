@@ -1,4 +1,4 @@
-<h1><font color="#31112c"> Portfolio </font></h1>
+## Portfolio
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-<h2><font color="#31112c">Projets web</font><h2>
+### Projets web
 
 #### [Au fil des saisons](/infos_saisons.md)
 <img src="images/saisons/presentation_saisons.png"/>
@@ -17,7 +17,6 @@
 #### [La Bretagne et ses secrets](/infos_bretagne.md)
 <img src="images/bretagne/accueil_bretagne.png"/>
 
-<a href="/infos_bretagne.md">bretagne</a>
 ---
 ---
 
