@@ -23,8 +23,8 @@
 
 ---
 
-#### [Portrait](/portrait.md)
-<img src="images/graphique/scene_v4_bg_nature.png"/>
+#### [Premiers pas](/premiers_pas.md)
+<img src="images/graphique/past_and_future_v1.png"/>
 
 #### [Fond d'écran](/fonddecran.md)
 <img src="images/graphique/chamber.png"/>
