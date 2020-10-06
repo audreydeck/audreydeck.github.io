@@ -1,6 +1,6 @@
 ## A vos crayons !
 
-V6
+V7
 
 ### 1. Où tout a commencé...
 
@@ -42,25 +42,19 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
     <td style="text-align:center">... Un terrible loup-garou ...</td>
     <td><img src="images/graphique/loup_garou/loup_garou.png"/></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td style="text-align:center" colspan="3">... Ou bien seras-tu la personne qui changera le cours de la partie ?</td>
-  </tr>
-  <tr>
-    <td></td>
+    <td style="text-align:center" colspan="2">... Ou bien seras-tu la personne qui changera le cours de la partie ?</td>
   </tr>
   <tr>
     <td><img src="images/graphique/loup_garou/voyante.png"/></td>
     <td><img src="images/graphique/loup_garou/sorciere.png"/></td>
-    <td><img src="images/graphique/loup_garou/petite_fille.png"/></td>
   </tr>
   <tr>
+    <td><img src="images/graphique/loup_garou/petite_fille.png"/></td>
+    <td><img src="images/graphique/loup_garou/voleur.png"/></td>
   </tr>
   <tr>
     <td><img src="images/graphique/loup_garou/chasseur.png"/></td>
-    <td><img src="images/graphique/loup_garou/voleur.png"/></td>
     <td><img src="images/graphique/loup_garou/cupidon.png"/></td>
   </tr>
 </table>
