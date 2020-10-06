@@ -1,7 +1,5 @@
 ## A vos crayons !
 
-V7
-
 ### 1. Où tout a commencé...
 
 Je dessine depuis que j'ai appris à tenir un crayon ce qui remonte à une bonne vingtaine d'année. Même si mes créations n'étaient pas du niveau des plus grands artistes, j'ai 
@@ -87,8 +85,8 @@ Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord co
 
 <table>
   <tr>
-    <td><img src="images/graphique/personnage_1_bg_v3.png" style="height:400px"/></td>
-    <td><img src="images/graphique/wynn_et_eireen.png"  style="height:400px"/></td>
+    <td><img src="images/graphique/personnage_1_bg_v3.png"/></td>
+    <td><img src="images/graphique/wynn_et_eireen.png"/></td>
   </tr>
   <tr>
     <td style="text-align:center" colspan="2"><a href="/images/graphique/personnage_1_bg_v3.png">Image 1</a> - <a href="/images/graphique/wynn_et_eireen.png">Image 2</a></td>
