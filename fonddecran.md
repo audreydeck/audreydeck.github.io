@@ -1,7 +1,5 @@
 ## Création de fonds d'écran
 
-V3
-
 **Description du projet :**
 <br>
 Un projet en cours qui se résume à faire divers fonds d'écran pour téléphone comme pour ordinateur !
