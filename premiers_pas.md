@@ -1,6 +1,6 @@
 ## A vos crayons !
 
-V3
+V5
 
 ### 1. Où tout a commencé...
 
@@ -28,8 +28,6 @@ Avant d'avoir pu m'acheter une tablette graphique, j'ai scanné mes dessins puis
   <i>Dessins réalisés en 2017</i>
 </p>
 
-<br><br>
-
 ... puis, lorsque l'occasion s'est présentée, je me suis achetée une tablette graphique Wacom Intuos et depuis j'utilise le logiciel Clip Studio Paint pour mettre en couleur 
 mes dessins ...
 <br><br>
@@ -45,9 +43,12 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
     <td><img src="images/graphique/loup_garou/loup_garou.png"/></td>
   </tr>
 </table>
+
 <table>
   <tr>
-    <td style="text-align:center" colspan="3">... Ou bien seras-tu la personne qui changera le cours de la partie ?<td>
+    <td style="text-align:center" colspan="3">... Ou bien seras-tu la personne qui changera le cours de la partie ?</td>
+  </tr>
+  <tr>
   </tr>
   <tr>
     <td><img src="images/graphique/loup_garou/voyante.png"/></td>
@@ -62,7 +63,6 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
     <td><img src="images/graphique/loup_garou/cupidon.png"/></td>
   </tr>
 </table>
-
 
 <p align="center">
   <a href="/images/graphique/loug_garou/villageois.png">Le villageois</a> - <a href="/images/graphique/loug_garou/loup_garou.png">Le loup-garou</a>
@@ -92,8 +92,8 @@ Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord co
 
 <table>
   <tr>
-    <td style="height:560px"><img src="images/graphique/personnage_1_bg_v3.png"/></td>
-    <td style="height:560px"><img src="images/graphique/wynn_et_eireen.png"/></td>
+    <td><img src="images/graphique/personnage_1_bg_v3.png" style="height:400px"/></td>
+    <td><img src="images/graphique/wynn_et_eireen.png"  style="height:400px"/></td>
   </tr>
   <tr>
     <td style="text-align:center" colspan="2"><a href="/images/graphique/personnage_1_bg_v3.png">Image 1</a> - <a href="/images/graphique/wynn_et_eireen.png">Image 2</a></td>
