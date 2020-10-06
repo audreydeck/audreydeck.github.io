@@ -7,7 +7,7 @@ Un projet en cours qui se résume à faire divers fonds d'écran pour téléphon
 
 ### 1. Pour personnaliser vos téléphones ...
 
-L'idée de faire des fonds d'écran m'est venue lorsque je voyais régulièrement défiler sur mes fils d'actualités Facebook et Instagram des citations à la fois drôle et motivante.
+L'idée de faire des fonds d'écran m'est venue lorsque je voyais régulièrement défiler sur mes fils d'actualités Facebook et Instagram des citations à la fois drôle et motivante. J'ai repris le concepte mais je l'ai personnalisé et voilà le résultat !
 
 <table>
   <tr>
@@ -24,10 +24,13 @@ L'idée de faire des fonds d'écran m'est venue lorsque je voyais régulièremen
 
 ### 2. ... Mais aussi vos ordinateurs !
 
+Dessiner des fonds/arrière-plan n'est pas mon point fort, du coup le meilleur moyen d'y remédier, c'est de s'entraîner !
+
 <img src="/images/graphique/chamber.png">
 <p align="center">
 <a href="/images/graphique/chamber.png">Fond 1</a>
 </p>
+<br><br>
 
 <img src="/images/graphique/ouija_board.png">
 <p align="center">
