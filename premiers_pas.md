@@ -1,6 +1,6 @@
 ## A vos crayons !
 
-V2
+V3
 
 ### 1. Où tout a commencé...
 
@@ -37,24 +37,29 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
 
 <table>
   <tr>
-    <td><img scr="images/graphique/loup_garou/villageois.png"/></td>
+    <td><img src="images/graphique/loup_garou/villageois.png"/></td>
     <td style="text-align:center">Seras-tu un innocent villageois ...</td>
   </tr>
   <tr>
     <td style="text-align:center">... Un terrible loup-garou ...</td>
-    <td><img scr="images/graphique/loup_garou/loup_garou.png"/></td>
+    <td><img src="images/graphique/loup_garou/loup_garou.png"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="text-align:center" colspan="3">... Ou bien seras-tu la personne qui changera le cours de la partie ?<td>
   </tr>
   <tr>
-    <td><img scr="images/graphique/loup_garou/voyante.png"/></td>
-    <td><img scr="images/graphique/loup_garou/sorciere.png"/></td>
-    <td><img scr="images/graphique/loup_garou/petite_fille.png"/></td>
+    <td><img src="images/graphique/loup_garou/voyante.png"/></td>
+    <td><img src="images/graphique/loup_garou/sorciere.png"/></td>
+    <td><img src="images/graphique/loup_garou/petite_fille.png"/></td>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td><img scr="images/graphique/loup_garou/chasseur.png"/></td>
-    <td><img scr="images/graphique/loup_garou/voleur.png"/></td>
-    <td><img scr="images/graphique/loup_garou/cupidon.png"/></td>
+    <td><img src="images/graphique/loup_garou/chasseur.png"/></td>
+    <td><img src="images/graphique/loup_garou/voleur.png"/></td>
+    <td><img src="images/graphique/loup_garou/cupidon.png"/></td>
   </tr>
 </table>
 
@@ -87,12 +92,14 @@ Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord co
 
 <table>
   <tr>
-    <td><img src="images/graphique/personnage_1_bg_v3.png"/></td>
-    <td><img src="images/graphique/wynn_et_eireen.png"/></td>
+    <td style="height:560px"><img src="images/graphique/personnage_1_bg_v3.png"/></td>
+    <td style="height:560px"><img src="images/graphique/wynn_et_eireen.png"/></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="/images/graphique/personnage_1_bg_v3.png">Image 1</a> - <a href="/images/graphique/wynn_et_eireen.png">Image 2</a></td>
+    <td style="text-align:center" colspan="2"><a href="/images/graphique/personnage_1_bg_v3.png">Image 1</a> - <a href="/images/graphique/wynn_et_eireen.png">Image 2</a></td>
   </tr>
+</table>
+<table>
   <tr>
     <td><img src="images/graphique/scene_v4_bg_nature.png"/></td>
   </tr>
