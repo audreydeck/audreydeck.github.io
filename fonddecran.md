@@ -1,5 +1,7 @@
 ## Création de fonds d'écran
 
+V1
+
 **Description du projet :**
 <br>
 Un projet en cours qui se résume à faire divers fonds d'écran pour téléphone comme pour ordinateur !
@@ -16,7 +18,7 @@ L'idée de faire des fonds d'écran m'est venue lorsque je voyais régulièremen
     <td><img src="/images/graphique/duck_lady.png"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="/images/graphique/witch_please_v2.png">Fond 1</a></td>
+    <td text-align="center"><a href="/images/graphique/witch_please_v2.png">Fond 1</a></td>
     <td style="text-align:center"><a href="/images/graphique/cristal_v2.png">Fond 2</a></td>
     <td style="text-align:center"><a href="/images/graphique/duck.png">Fond 3</a></td>
   </tr>
