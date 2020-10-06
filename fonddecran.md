@@ -34,9 +34,6 @@ Dessiner des fonds/arrière-plan n'est pas mon point fort, du coup le meilleur m
     <td style="text-align:center"><a href="/images/graphique/chamber.png">Fond 1</a></td>
   </tr>
 </table>
-
-<br>
-
 <table>
   <tr>
     <td><img src="/images/graphique/ouija_board.png"></td>
