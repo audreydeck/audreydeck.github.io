@@ -1,6 +1,6 @@
 ## A vos crayons !
 
-V4
+V5
 
 ### 1. Où tout a commencé...
 
@@ -28,8 +28,6 @@ Avant d'avoir pu m'acheter une tablette graphique, j'ai scanné mes dessins puis
   <i>Dessins réalisés en 2017</i>
 </p>
 
-<br><br>
-
 ... puis, lorsque l'occasion s'est présentée, je me suis achetée une tablette graphique Wacom Intuos et depuis j'utilise le logiciel Clip Studio Paint pour mettre en couleur 
 mes dessins ...
 <br><br>
@@ -49,6 +47,8 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
 <table>
   <tr>
     <td style="text-align:center" colspan="3">... Ou bien seras-tu la personne qui changera le cours de la partie ?</td>
+  </tr>
+  <tr>
   </tr>
   <tr>
     <td><img src="images/graphique/loup_garou/voyante.png"/></td>
