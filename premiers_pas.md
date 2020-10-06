@@ -1,6 +1,6 @@
 ## A vos crayons !
 
-V1
+V2
 
 ### 1. Où tout a commencé...
 
@@ -33,13 +33,31 @@ Avant d'avoir pu m'acheter une tablette graphique, j'ai scanné mes dessins puis
 ... puis, lorsque l'occasion s'est présentée, je me suis achetée une tablette graphique Wacom Intuos et depuis j'utilise le logiciel Clip Studio Paint pour mettre en couleur 
 mes dessins ...
 <br><br>
-Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familiariser avec mon nouvel environnement de travail
+Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familiariser avec mon nouvel environnement de travail.
 
-<img src="images/graphique/loup_garou/lg_v.png"/>
-<img src="images/graphique/loup_garou/lg_lg.png"/>
-<img src="images/graphique/loup_garou/texte.png"/>
-<img src="images/graphique/loup_garou/lg_p1.png"/>
-<img src="images/graphique/loup_garou/lg_p2.png"/>
+<table>
+  <tr>
+    <td><img scr="images/graphique/loup_garou/villageois.png"/></td>
+    <td style="text-align:center">Seras-tu un innocent villageois ...</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">... Un terrible loup-garou ...</td>
+    <td><img scr="images/graphique/loup_garou/loup_garou.png"/></td>
+  </tr>
+  <tr>
+    <td><img scr="images/graphique/loup_garou/voyante.png"/></td>
+    <td><img scr="images/graphique/loup_garou/sorciere.png"/></td>
+    <td><img scr="images/graphique/loup_garou/petite_fille.png"/></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td><img scr="images/graphique/loup_garou/chasseur.png"/></td>
+    <td><img scr="images/graphique/loup_garou/voleur.png"/></td>
+    <td><img scr="images/graphique/loup_garou/cupidon.png"/></td>
+  </tr>
+</table>
+
 
 <p align="center">
   <a href="/images/graphique/loug_garou/villageois.png">Le villageois</a> - <a href="/images/graphique/loug_garou/loup_garou.png">Le loup-garou</a>
@@ -53,7 +71,7 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
 
 ### 3. Progression
 
-Durant le confinement, j'ai eu l'occasion de pouvoir m'exercer plus souvent sur ma tablette graphique !
+Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord commencer par dessiner les personnages de face en m'aidant de repères pour que tout soit à la bonne taille. Plus je gagnais confiance en ce que je produisais, plus je me lancais dans de nouveaux défis : dessiner de profil/de trois-quart, faire des personnages entiers en movement, etc.
 
 #### 3.1. Portraits
 
@@ -67,11 +85,22 @@ Durant le confinement, j'ai eu l'occasion de pouvoir m'exercer plus souvent sur 
 
 #### 3.2. Personnages entiers et scènes
 
-<img src="images/graphique/scene2020.png"/>
-<img src="images/graphique/scene_v4_bg_nature.png"/>
+<table>
+  <tr>
+    <td><img src="images/graphique/personnage_1_bg_v3.png"/></td>
+    <td><img src="images/graphique/wynn_et_eireen.png"/></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="/images/graphique/personnage_1_bg_v3.png">Image 1</a> - <a href="/images/graphique/wynn_et_eireen.png">Image 2</a></td>
+  </tr>
+  <tr>
+    <td><img src="images/graphique/scene_v4_bg_nature.png"/></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="/images/graphique/scene_v4_bg_nature.png">Image 3</a></td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="/images/graphique/personnage_1_bg_v3.png">Image 1</a> - <a href="/images/graphique/wynn_et_eireen.png">Image 2</a> - <a href="/images/graphique/scene_v4_bg_nature.png">Image 3</a>
-<br>
   <i>Dessins réalisés en 2020</i>
 </p>
