@@ -1,6 +1,6 @@
 ## A vos crayons !
 
-V5
+V6
 
 ### 1. Où tout a commencé...
 
@@ -49,6 +49,7 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
     <td style="text-align:center" colspan="3">... Ou bien seras-tu la personne qui changera le cours de la partie ?</td>
   </tr>
   <tr>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/graphique/loup_garou/voyante.png"/></td>
