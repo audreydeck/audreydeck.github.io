@@ -34,3 +34,7 @@ Chaque élève a eu un exemplier détaillant l'activité qu'ils devaient remplir
 
 Plusieurs améliorations sont encore à apporter. Mes connaissances à l'époque ne me permettais pas de finaliser ce projet même s'il fonctionne correctement tel qu'il est. Parmis 
 les ajouts : une fonction qui permet de lancer des dès, mettre en place des pions qui se déplace et griser les cases déjà visités.
+
+<p align="center">
+<a href="audreydeck.github.io">Retour</a>
+</p>
