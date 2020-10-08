@@ -17,7 +17,7 @@ Avant d'avoir pu m'acheter une tablette graphique, j'ai scanné mes dessins puis
 <a href="images/graphique/portrait2017.png"><img src="images/graphique/portrait2017.png"/></a>
 
 <p align="center">
-  Pour voir chaque image individuellement, cliquez sur les liens ci-dessous.
+  Pour voir chaque image individuellement, cliquez sur les liens ci-dessous.<br>
   <a href="/images/graphique/sirène_bleu.png">Portrait 1</a> - <a href="/images/graphique/enora.png">Portrait 2</a> - <a href="/images/graphique/personnage.png">Portrait 3</a>
 <br>
   <i>Dessins réalisés en 2017</i>
@@ -63,7 +63,7 @@ Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord co
 <a href="images/graphique/portrait2020.png"><img src="images/graphique/portrait2020.png"/></a>
 
 <p align="center">
-  Pour voir chaque image individuellement, cliquez sur les liens ci-dessous.
+  Pour voir chaque image individuellement, cliquez sur les liens ci-dessous.<br>
   <a href="/images/graphique/portrait_1.png">Portrait 1</a> - <a href="/images/graphique/portrait_3_v2.png">Portrait 2</a> - <a href="/images/graphique/portrait_4.png">Portrait 3</a>
 <br>
   <i>Dessins réalisés en 2020</i>
