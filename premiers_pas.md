@@ -2,10 +2,10 @@
 
 ### 1. Où tout a commencé...
 
-Je dessine depuis que j'ai appris à tenir un crayon ce qui remonte à une bonne vingtaine d'année. Même si mes créations n'étaient pas du niveau des plus grands artistes, j'ai 
+Je dessine depuis que j'ai appris à tenir un crayon ce qui remonte à une bonne vingtaine d'années. Même si mes créations n'étaient pas du niveau des plus grands artistes, j'ai 
 continué de m'exercer année après année, perfectionnant mes techniques et apprenant des nouvelles.
-Les nouvelles technologies n'ayant pas encore envahi nos vies lorsque j'étais jeune, le crayon et la feuille ont été mes premiers outils avant d'être remplacés par un stylet et 
-une tablette graphique.
+<br>
+Les nouvelles technologies n'ayant pas encore envahi nos vies lorsque j'étais jeune, le crayon et la feuille ont été mes premiers outils avant d'être remplacés par un stylet et une tablette graphique.
 
 <a href="/images/graphique/past_v1.png"><img src="images/graphique/past_v1.png"/></a>
 <a href="/images/graphique/future_v1.png"><img src="images/graphique/future_v1.png"/></a>
@@ -23,8 +23,8 @@ Avant d'avoir pu m'acheter une tablette graphique, j'ai scanné mes dessins puis
   <i>Dessins réalisés en 2017</i>
 </p>
 
-... puis, lorsque l'occasion s'est présentée, je me suis achetée une tablette graphique Wacom Intuos et depuis j'utilise le logiciel Clip Studio Paint pour mettre en couleur 
-mes dessins ...
+... puis, lorsque l'occasion s'est présentée, je me suis acheté une tablette graphique Wacom Intuos et depuis j'utilise le logiciel Clip Studio Paint pour mettre en couleur 
+mes dessins !
 <br><br>
 Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familiariser avec mon nouvel environnement de travail.
 
@@ -56,7 +56,7 @@ Mon premier projet a été de redessiner le jeu du Loup-Garou afin de me familia
 
 ### 3. Progression
 
-Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord commencer par dessiner les personnages de face en m'aidant de repères pour que tout soit à la bonne taille. Plus je gagnais confiance en ce que je produisais, plus je me lancais dans de nouveaux défis : dessiner de profil/de trois-quart, faire des personnages entiers en movement, etc.
+Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord commencé par dessiner les personnages de face en m'aidant de repères pour que tout soit à la bonne taille. Plus je gagnais confiance en ce que je produisais, plus je me lançais dans de nouveaux défis : dessiner de profil/de trois-quarts, faire des personnages entiers en mouvement, etc.
 
 #### 3.1. Portraits
 
