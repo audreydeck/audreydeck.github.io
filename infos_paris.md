@@ -34,3 +34,7 @@ Chaque élève a eu un exemplier à remplir au fur et à mesure. L'activité com
 Une deuxième activité que j'ai eu l'occasion de faire fût une visite guidée de notre magnifique capitale. Basée sur la carte et sur leur connaissance, les élèves ont pu redécouvrir les monuments à travers différents jeux de plateau !
 <br>
 ->[Visite guidée](/pdf/station_paris.pdf)
+
+<p align="center">
+<a href="audreydeck.github.io">Retour</a>
+</p>
