@@ -7,11 +7,11 @@ HTML et CSS ont été les premiers langages informatiques avec lesquels j'ai tra
 
 ### 1. Le visuel
 
-Nous avons 4 pages web, une pour chaque saison de l'année. Chaque page est composée d'une image et d'un poème sur un fond dégradé en lien avec la saison. En bas de la page, se situe deux liens pour aller soit à la saison précédente, soit à la saison suivante.
+Nous avons 4 pages web, une pour chaque saison de l'année. Chaque page est composée d'une image et d'un poème sur un fond dégradé en lien avec la saison. En bas de la page, se situent deux liens pour aller soit à la saison précédente, soit à la saison suivante.
 <br><br>
-L'image utilisé pour le fond est libre de droit.
+L'image utilisée pour le fond est libre de droit.
 <br>
-J'ai founit les images utilisés pour chaque saisons ainsi que les poèmes.
+J'ai fourni les images utilisées pour chaque saison ainsi que les poèmes.
 <br>
 
 <a href="images/saisons/printemps.png"><img src="images/saisons/printemps.png"/></a>
@@ -21,7 +21,7 @@ J'ai founit les images utilisés pour chaque saisons ainsi que les poèmes.
 
 ### 2. Le code
 
-Pour cette première approche, j'ai coder l'ensemble des pages manuellement afin de mieux intégrer les différentes balises mais aussi les bases en HTML et CSS. 
+Pour cette première approche, j'ai codé l'ensemble des pages manuellement afin de mieux intégrer les différentes balises mais aussi les bases en HTML et CSS. 
 
 ```javascript
 <html>
