@@ -14,14 +14,14 @@ cliquant sur les différents lieux, une nouvelle page s'ouvre sur image ainsi qu
 Les images utilisées sont libre de droit.
 <br>
 
-<img src="images/paris/accueil_paris.png"/>
+<a href="images/paris/accueil_paris.png"><img src="images/paris/accueil_paris.png"/></a>
 
 #### 1.2. Les lieux
 
 Chaque endroit est représenté par une image et un texte explicatif. Ayant différentes classes dont le niveau de français varies en fonction des élèves, le défi a été de créer une activité ludique et éducative accessible à tous. Les élèves ont pu venir au tableau, selectionner le monument qui les interessent et lire la description. Les mots complexes ont été mis en gras et chaque élève avait à sa disposition un exemplié avec les définitions, qui ont été expliqué à voix haute pour s'assurer que tous le monde à compris.
 
-<img src="images/paris/page_une_paris.png"/>
-<img src="images/paris/page_deux_paris.png"/>
+<a href="images/paris/page_une_paris.png"><img src="images/paris/page_une_paris.png"/></a>
+<a href="images/paris/page_deux_paris.png"><img src="images/paris/page_deux_paris.png"/></a>
 
 ### 2. L'activité
 
