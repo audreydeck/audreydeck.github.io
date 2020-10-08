@@ -14,10 +14,10 @@ L'image utilisé pour le fond est libre de droit.
 J'ai founit les images utilisés pour chaque saisons ainsi que les poèmes.
 <br>
 
-<img src="images/saisons/printemps.png"/>
-<img src="images/saisons/ete.png"/>
-<img src="images/saisons/automne.png"/>
-<img src="images/saisons/hiver.png"/>
+<a href="images/saisons/printemps.png"><img src="images/saisons/printemps.png"/></a>
+<a href="images/saisons/ete.png"><img src="images/saisons/ete.png"/></a>
+<a href="images/saisons/automne.png"><img src="images/saisons/automne.png"/></a>
+<a href="images/saisons/hiver.png"><img src="images/saisons/hiver.png"/></a>
 
 ### 2. Le code
 
@@ -62,3 +62,5 @@ Pour cette première approche, j'ai coder l'ensemble des pages manuellement afin
 	</body>
 </html>
 ```
+
+<a href="audreydeck.github.io">Retour</a>
