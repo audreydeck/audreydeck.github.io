@@ -42,3 +42,8 @@ Dessiner des fonds/arrière-plan n'est pas mon point fort, du coup le meilleur m
     <td style="text-align:center"><a href="/images/graphique/ouija_board.png">Fond 2</a></td>
   </tr>
 </table>
+
+
+<p align="center">
+<a href="audreydeck.github.io">Retour</a>
+</p>
