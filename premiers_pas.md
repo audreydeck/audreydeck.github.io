@@ -77,7 +77,7 @@ Les proportions étant un peu ma bête noire niveau dessin, j'ai tout d'abord co
     <td><a href="/images/graphique/wynn_et_eireen.png"><img src="images/graphique/wynn_et_eireen.png"/></a></td>
   </tr>
   <tr>
-    <td><a href="/images/graphique/scene_v4_bg_nature.png"><img src="images/graphique/scene_v4_bg_nature.png"/></a></td>
+    <td colspan="2"><a href="/images/graphique/scene_v4_bg_nature.png"><img src="images/graphique/scene_v4_bg_nature.png"/></a></td>
   </tr>
 </table>
 
