@@ -6,6 +6,8 @@
 ### Projets web
 
 ---
+Débutante dans la programmation web, je ne possède pas encore beaucoup de projets. Cependant le désir d'apprendre est présent et vous pouvez consulter ci-dessus mes créations !
+---
 
 #### [Au fil des saisons](/infos_saisons.md)
 <img src="images/saisons/presentation_saisons.png"/>
@@ -21,6 +23,8 @@
 
 ### Projets tablette graphique Wacom Intuos
 
+---
+Le dessin fait partie d'un de mes plus anciens loisirs ! Vous pouvez découvrir mes différents projets en cliquant sur les liens ci-dessous :
 ---
 
 #### [Premiers pas](/premiers_pas.md)
