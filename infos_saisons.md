@@ -63,4 +63,6 @@ Pour cette première approche, j'ai coder l'ensemble des pages manuellement afin
 </html>
 ```
 
+<p align="center">
 <a href="audreydeck.github.io">Retour</a>
+</p>
