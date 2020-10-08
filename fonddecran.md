@@ -11,14 +11,9 @@ L'idée de faire des fonds d'écran m'est venue lorsque je voyais régulièremen
 
 <table>
   <tr>
-    <td><img src="/images/graphique/witch_please_v2.png"></td>
-    <td><img src="/images/graphique/cristal_v2.png"></td>
-    <td><img src="/images/graphique/duck_lady.png"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="/images/graphique/witch_please_v2.png">Fond 1</a></td>
-    <td style="text-align:center"><a href="/images/graphique/cristal_v2.png">Fond 2</a></td>
-    <td style="text-align:center"><a href="/images/graphique/duck.png">Fond 3</a></td>
+    <td><a href="/images/graphique/witch_please_v2.png"><img src="/images/graphique/witch_please_v2.png"/></a></td>
+    <td><a href="/images/graphique/cristal_v2.png"><img src="/images/graphique/cristal_v2.png"/></a></td>
+    <td><a href="/images/graphique/duck_lady.png"><img src="/images/graphique/duck_lady.png"/></a></td>
   </tr>
  </table>
 
@@ -26,23 +21,9 @@ L'idée de faire des fonds d'écran m'est venue lorsque je voyais régulièremen
 
 Dessiner des fonds/arrière-plan n'est pas mon point fort, du coup le meilleur moyen d'y remédier, c'est de s'entraîner !
 
-<table>
-  <tr>
-    <td><img src="/images/graphique/chamber.png"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="/images/graphique/chamber.png">Fond 1</a></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="/images/graphique/ouija_board.png"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="/images/graphique/ouija_board.png">Fond 2</a></td>
-  </tr>
-</table>
-
+<a href="/images/graphique/chamber.png"><img src="/images/graphique/chamber.png"/></a>
+<br>
+<a href="/images/graphique/ouija_board.png"><img src="/images/graphique/ouija_board.png"/></a>
 
 <p align="center">
 <a href="audreydeck.github.io">Retour</a>
